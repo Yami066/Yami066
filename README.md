@@ -8,9 +8,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yami066&layout=compact&theme=dark)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yami066&theme=radical)
-
 ### 🔝 Contribution Graph
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yami066&theme=github_dark)
 
